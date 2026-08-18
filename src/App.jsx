@@ -41,10 +41,7 @@ function App() {
 
         <aside className="fixed left-0 top-0 flex h-screen w-72 flex-col border-r border-white/10 bg-slate-900/95 p-6 shadow-2xl">
 
-          <div className="mb-10">
-            <div className="mb-3 inline-block rounded-full border border-indigo-400/30 bg-indigo-500/10 px-3 py-1 text-xs text-indigo-300">
-              React + Tailwind
-            </div>
+         
 
             <h1 className="text-2xl font-bold">
               HEAD / TAIL
